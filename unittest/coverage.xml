@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE coverage SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-04.dtd'>
+<coverage line-rate="1.0" branch-rate="1.0" lines-covered="0" lines-valid="0" branches-covered="0" branches-valid="0" complexity="0.0" timestamp="1770841635" version="gcovr 7.0">
+  <sources>
+    <source>..</source>
+  </sources>
+  <packages>
+    <package name="" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+      <classes>
+        <class name="rdm_main_c" filename="rdm_main.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="src" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+      <classes>
+        <class name="rdm_curldownload_c" filename="src/rdm_curldownload.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_download_c" filename="src/rdm_download.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_downloadmgr_c" filename="src/rdm_downloadmgr.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_downloadutils_c" filename="src/rdm_downloadutils.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_downloadverapp_c" filename="src/rdm_downloadverapp.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_jsonquery_c" filename="src/rdm_jsonquery.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_openssl_c" filename="src/rdm_openssl.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_packagemgr_c" filename="src/rdm_packagemgr.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_rbus_c" filename="src/rdm_rbus.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_usbinstall_c" filename="src/rdm_usbinstall.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_utils_c" filename="src/rdm_utils.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="unittest" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+      <classes>
+        <class name="conftest_c" filename="unittest/conftest.c" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_curl_gtest_cpp" filename="unittest/rdm_curl_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_download_gtest_cpp" filename="unittest/rdm_download_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_downloadutils_gtest_cpp" filename="unittest/rdm_downloadutils_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_json_gtest_cpp" filename="unittest/rdm_json_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_main_gtest_cpp" filename="unittest/rdm_main_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_openssl_gtest_cpp" filename="unittest/rdm_openssl_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_rbus_gtest_cpp" filename="unittest/rdm_rbus_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_usbinstall_gtest_cpp" filename="unittest/rdm_usbinstall_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="rdm_utils_gtest_cpp" filename="unittest/rdm_utils_gtest.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+    <package name="unittest.mocks" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+      <classes>
+        <class name="mock_curl_h" filename="unittest/mocks/mock_curl.h" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="mock_iarm_bus_cpp" filename="unittest/mocks/mock_iarm_bus.cpp" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="mock_iarm_bus_h" filename="unittest/mocks/mock_iarm_bus.h" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="mock_rdm_rbus_h" filename="unittest/mocks/mock_rdm_rbus.h" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+        <class name="mock_rdm_utils_h" filename="unittest/mocks/mock_rdm_utils.h" line-rate="1.0" branch-rate="1.0" complexity="0.0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
